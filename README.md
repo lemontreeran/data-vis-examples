@@ -1,6 +1,6 @@
 # data-visualization-snippets
 
-Data Visualization Snippets
+Data Visualization Snippets, 该项目承接自 [fe-boilerplates](https://github.com/wx-chevalier/fe-boilerplates)。
 
 # 延伸阅读
 
